@@ -1,0 +1,16 @@
+# .NET
+bin/
+obj/
+*.dll
+*.pdb
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Rust
+target/
+
+# Node
+node_modules/
