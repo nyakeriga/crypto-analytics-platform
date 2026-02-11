@@ -1,0 +1,13 @@
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/lib/cmake/RdKafka/RdKafkaConfig.cmake
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/lib/cmake/RdKafka/RdKafkaConfigVersion.cmake
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/lib/cmake/RdKafka/FindLZ4.cmake
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/lib/cmake/RdKafka/RdKafkaTargets.cmake
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/lib/cmake/RdKafka/RdKafkaTargets-debug.cmake
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/share/licenses/librdkafka/LICENSES.txt
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/lib/pkgconfig/rdkafka-static.pc
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/lib/librdkafka.a
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/include/librdkafka/rdkafka.h
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/include/librdkafka/rdkafka_mock.h
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/lib/pkgconfig/rdkafka++-static.pc
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/lib/librdkafka++.a
+/home/dmin/crypto-analytics-platform/core-engine/indicator-engine/target/debug/build/rdkafka-sys-6601abf205c589bd/out/include/librdkafka/rdkafkacpp.h

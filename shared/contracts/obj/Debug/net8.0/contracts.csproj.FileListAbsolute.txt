@@ -1,0 +1,11 @@
+/home/dmin/crypto-analytics-platform/shared/contracts/bin/Debug/net8.0/contracts.deps.json
+/home/dmin/crypto-analytics-platform/shared/contracts/bin/Debug/net8.0/contracts.dll
+/home/dmin/crypto-analytics-platform/shared/contracts/bin/Debug/net8.0/contracts.pdb
+/home/dmin/crypto-analytics-platform/shared/contracts/obj/Debug/net8.0/contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/dmin/crypto-analytics-platform/shared/contracts/obj/Debug/net8.0/contracts.AssemblyInfoInputs.cache
+/home/dmin/crypto-analytics-platform/shared/contracts/obj/Debug/net8.0/contracts.AssemblyInfo.cs
+/home/dmin/crypto-analytics-platform/shared/contracts/obj/Debug/net8.0/contracts.csproj.CoreCompileInputs.cache
+/home/dmin/crypto-analytics-platform/shared/contracts/obj/Debug/net8.0/contracts.dll
+/home/dmin/crypto-analytics-platform/shared/contracts/obj/Debug/net8.0/refint/contracts.dll
+/home/dmin/crypto-analytics-platform/shared/contracts/obj/Debug/net8.0/contracts.pdb
+/home/dmin/crypto-analytics-platform/shared/contracts/obj/Debug/net8.0/ref/contracts.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gabh6WtJUAvh3wgAXpuqvokAKOe3Kuzlpy5KHJcUuzM=",
+  "Source": "signal-service",
+  "BasePath": "_content/signal-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

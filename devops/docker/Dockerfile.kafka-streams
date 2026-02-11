@@ -1,0 +1,18 @@
+# Dockerfile for Kafka Streams Service
+FROM openjdk:17-jdk-slim
+
+WORKDIR /app
+
+COPY infra/kafka-streams/build.gradle .
+COPY infra/kafka-streams/src ./src
+
+# Install Gradle
+RUN apt-get update && apt-get install -y wget unzip \
+    && wget https://services.gradle.org/distributions/gradle-8.4-bin.zip \
+    && unzip gradle-8.4-bin.zip \
+    && mv gradle-8.4 /opt/gradle \
+    && ln -s /opt/gradle/bin/gradle /usr/bin/gradle
+
+RUN gradle build --no-daemon
+
+CMD ["gradle", "run", "--no-daemon"]

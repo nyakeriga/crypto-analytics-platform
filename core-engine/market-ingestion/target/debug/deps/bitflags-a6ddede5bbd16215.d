@@ -1,0 +1,11 @@
+/home/dmin/crypto-analytics-platform/core-engine/market-ingestion/target/debug/deps/libbitflags-a6ddede5bbd16215.rmeta: /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/lib.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/iter.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/parser.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/traits.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/public.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/internal.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/external.rs
+
+/home/dmin/crypto-analytics-platform/core-engine/market-ingestion/target/debug/deps/bitflags-a6ddede5bbd16215.d: /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/lib.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/iter.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/parser.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/traits.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/public.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/internal.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/external.rs
+
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/lib.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/iter.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/parser.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/traits.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/public.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/internal.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.10.0/src/external.rs:

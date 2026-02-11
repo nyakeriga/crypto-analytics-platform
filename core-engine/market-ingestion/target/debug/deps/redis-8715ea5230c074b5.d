@@ -1,0 +1,20 @@
+/home/dmin/crypto-analytics-platform/core-engine/market-ingestion/target/debug/deps/redis-8715ea5230c074b5.d: /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/lib.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/macros.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/pipeline.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/acl.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/geo.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/streams.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/client.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/cmd.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/commands/mod.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/commands/macros.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/connection.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/parser.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/script.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/types.rs
+
+/home/dmin/crypto-analytics-platform/core-engine/market-ingestion/target/debug/deps/libredis-8715ea5230c074b5.rmeta: /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/lib.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/macros.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/pipeline.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/acl.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/geo.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/streams.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/client.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/cmd.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/commands/mod.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/commands/macros.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/connection.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/parser.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/script.rs /home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/types.rs
+
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/lib.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/macros.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/pipeline.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/acl.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/geo.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/streams.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/client.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/cmd.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/commands/mod.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/commands/macros.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/connection.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/parser.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/script.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redis-0.25.4/src/types.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.25.4

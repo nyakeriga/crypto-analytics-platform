@@ -1,0 +1,10 @@
+/home/dmin/crypto-analytics-platform/core-engine/market-ingestion/target/debug/deps/libzerovec_derive-974dcf55efdf7eb0.so: /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/lib.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_ule.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_varule.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/ule.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/utils.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/varule.rs
+
+/home/dmin/crypto-analytics-platform/core-engine/market-ingestion/target/debug/deps/zerovec_derive-974dcf55efdf7eb0.d: /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/lib.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_ule.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_varule.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/ule.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/utils.rs /home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/varule.rs
+
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/lib.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_ule.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_varule.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/ule.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/utils.rs:
+/home/dmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/varule.rs:

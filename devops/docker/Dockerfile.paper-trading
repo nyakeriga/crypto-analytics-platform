@@ -1,0 +1,11 @@
+# Dockerfile for Paper Trading Simulator
+FROM python:3.11-slim
+
+WORKDIR /app
+
+COPY simulator/paper-trading/requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY simulator/paper-trading/ .
+
+CMD ["python", "simulator.py"]
