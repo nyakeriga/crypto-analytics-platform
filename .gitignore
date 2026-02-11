@@ -14,3 +14,4 @@ target/
 
 # Node
 node_modules/
+frontend/web-dashboard/node_modules/
